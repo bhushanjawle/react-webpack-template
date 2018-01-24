@@ -9,5 +9,5 @@ Work in progress for adding styling and related loaders.
 
   * Clone the repo: `git clone https://github.com/bhushanjawle/react-webpack-template my-new-project`
   * Install the dependencies: `cd my-new-project && npm install`
-  * Start webpack: `npm start`
   * Add your code to `App.js` and open `index.html`
+  * Start webpack: `npm start` which should open new browser tab which will auto refresh with any change to js (and php for WIP changes) files using BrowserSync
