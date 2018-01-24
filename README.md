@@ -7,7 +7,7 @@ Work in progress for adding styling and related loaders.
 
 ## How to use this
 
-  * Clone the repo: `git clone https://github.com/petehunt/react-webpack-template my-new-project`
+  * Clone the repo: `git clone https://github.com/bhushanjawle/react-webpack-template my-new-project`
   * Install the dependencies: `cd my-new-project && npm install`
   * Start webpack: `npm start`
   * Add your code to `App.js` and open `index.html`
