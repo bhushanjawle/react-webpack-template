@@ -7,4 +7,4 @@ This is a simple template for building React apps. Use this to get started, and 
   * Clone the repo: `git clone https://github.com/petehunt/react-webpack-template my-new-project`
   * Install the dependencies: `cd my-new-project && npm install`
   * Start webpack: `npm start`
-  * Add your code to `index.js` and open `index.html`
+  * Add your code to `App.js` and open `index.html`
